@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "electron": "^35.0.0",
+    "electron": "^36.0.0",
     "electron-reload": "^1.5.0"
   }
 }
